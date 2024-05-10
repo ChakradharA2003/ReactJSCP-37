@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.by-age-heading {
+  color: #94a3b8;
+  font-size: 25px;
+  align-self: flex-start;
+}
+.pie-chart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
