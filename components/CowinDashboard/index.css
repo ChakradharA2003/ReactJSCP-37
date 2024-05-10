@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: auto;
+  height: 100vh;
+  padding: 20px;
+  background-color: #161625;
+}
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+}
+.website-logo-heading-container {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.website-logo {
+  height: 50px;
+  width: 50px;
+  margin: 4px;
+}
+.website-heading {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.website-description {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 28px;
+  align-self: flex-start;
+}
+.failure-view-image {
+  width: 500px;
+  height: 300px;
+  margin-top: 50px;
+}
+.failure-view-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
